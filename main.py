@@ -10,10 +10,6 @@ pd.set_option('display.max_colwidth', -1)
 
 df = pd.read_csv('data/polished_main_df.csv', index_col=0)
 
-df1 = pd.read_csv("df1.csv", index_col=0)
-
-dfc = pd.read_csv('data/df_curr.csv', index_col=0)
-
 main_html_string = '''
 <html>
   <head><title>CBBSIM - College Hoops Historical Comparisons</title>
@@ -48,11 +44,13 @@ main_html_string = '''
 
 @app.route('/')
 def table():
+    df1 = pd.read_csv("df1.csv", index_col=0)
     return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
 
 
 @app.route('/<school>')
 def team(school):
+    dfc = pd.read_csv('data/df_curr.csv', index_col=0)
     second_string = ""
     make = -1
     avg_seed = -1
