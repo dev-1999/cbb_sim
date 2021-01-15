@@ -353,3 +353,17 @@ def polish_main_df(df):
 
 polish_main_df(write).to_csv('data/polished_main_df.csv')
 df_curr.to_csv('data/df_curr.csv')
+
+def polished_df_sortby_mls(df):
+    df1 = df
+    c = 'Most Likely Seed'
+    ctitle = '<a href="' + c + '">' + c + "</a>"
+    df1[ctitle] = [x if x != 0 else "None" for x in df1[ctitle].tolist()]
+    mtitle = '<a href="' + 'Most Likely Seed' + '">' + 'Most Likely Seed' + "</a>"
+    df1[mtitle] = [x if x != 17 else "None" for x in df1[mtitle].tolist()]
+    aaseed = mtitle = '<a href="' + 'Avg. Seed' + '">' + 'Avg. Seed' + "</a>"
+    df1[aaseed] = [x if x != 17 else "None" for x in df1[aaseed].tolist()]
+    df1['Rank'] = range(1, len(df) + 1)
+    return df1
+
+polished_df_sortby_mls(polish_main_df(write)).to_csv('df1.csv')
