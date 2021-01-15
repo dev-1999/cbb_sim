@@ -51,6 +51,7 @@ def table():
 @app.route('/<school>')
 def team(school):
     dfc = pd.read_csv('data/df_curr.csv', index_col=0)
+    df1 = pd.read_csv("df1.csv", index_col=0)
     second_string = ""
     make = -1
     avg_seed = -1
