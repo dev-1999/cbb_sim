@@ -1,6 +1,6 @@
-from flask import Flask, request, render_template, session, redirect
+from flask import Flask
 import pandas as pd
-from models import historical_page, process_seed_dist, df_curr, write, write_2020, list_to_hist
+from models import historical_page, process_seed_dist, list_to_hist
 
 #TODO: 4 - Put on Heroku
 #TODO: 5 - Update S16/F4/Champ Data for Every Team, Add 2020 teams
@@ -8,24 +8,7 @@ from models import historical_page, process_seed_dist, df_curr, write, write_202
 app = Flask(__name__)
 pd.set_option('display.max_colwidth', -1)
 
-def polish_main_df(df):
-    df['Made Tourney'] = df['Made Tourney'].apply(lambda x: round((x * 100), 1))
-    df = df.sort_values(by=['Made Tourney', 'Avg. Seed'], ascending=[False, True])
-    df['Made Tourney'] = df['Made Tourney'].apply(lambda x: str(x) + "%")
-    df.reset_index(inplace=True, drop=True)
-    df.reset_index(inplace=True)
-    df['index'] = df['index'] + 1
-    df = df.rename(columns={'index':'Rank'})
-    df['Team'] = df.Team.apply(lambda x: '<a href="' + x + '">' + x + "</a>")
-    df['#1 Match'] = df['#1 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
-    df['#2 Match'] = df['#2 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
-    df['#3 Match'] = df['#3 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
-    for c in ['Avg. Seed', 'Most Likely Seed', 'Made Tourney']:
-        df.rename(columns={c: '<a href="' + c + '">' + c + "</a>"}, inplace=True)
-
-    return df
-
-df = polish_main_df(write)
+df = pd.read_csv('data/polished_main_df.csv', index_col=0)
 
 
 def polished_df_sortby_mls(df):
@@ -42,7 +25,7 @@ def polished_df_sortby_mls(df):
 
 df1 = polished_df_sortby_mls(df)
 
-dfc = df_curr
+dfc = pd.read_csv('data/df_curr.csv', index_col=0)
 
 main_html_string = '''
 <html>
@@ -75,11 +58,6 @@ main_html_string = '''
   </footer>
 </html>.
 '''
-
-
-
-
-
 
 @app.route('/')
 def table():
@@ -194,4 +172,4 @@ def avgseed():
     return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False))
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)

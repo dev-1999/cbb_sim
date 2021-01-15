@@ -334,3 +334,22 @@ def historical_page(team, df_curr):
             avg_seed = avg_seed/denom
         return ret, [avg_seed, actual_seed], False
 
+
+def polish_main_df(df):
+    df['Made Tourney'] = df['Made Tourney'].apply(lambda x: round((x * 100), 1))
+    df = df.sort_values(by=['Made Tourney', 'Avg. Seed'], ascending=[False, True])
+    df['Made Tourney'] = df['Made Tourney'].apply(lambda x: str(x) + "%")
+    df.reset_index(inplace=True, drop=True)
+    df.reset_index(inplace=True)
+    df['index'] = df['index'] + 1
+    df = df.rename(columns={'index':'Rank'})
+    df['Team'] = df.Team.apply(lambda x: '<a href="' + x + '">' + x + "</a>")
+    df['#1 Match'] = df['#1 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
+    df['#2 Match'] = df['#2 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
+    df['#3 Match'] = df['#3 Match'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
+    for c in ['Avg. Seed', 'Most Likely Seed', 'Made Tourney']:
+        df.rename(columns={c: '<a href="' + c + '">' + c + "</a>"}, inplace=True)
+    return df
+
+polish_main_df(write).to_csv('data/polished_main_df.csv')
+df_curr.to_csv('data/df_curr.csv')
