@@ -1,6 +1,6 @@
 from flask import Flask
 import pandas as pd
-from models import historical_page, process_seed_dist, list_to_hist
+
 
 #TODO: 4 - Put on Heroku
 #TODO: 5 - Update S16/F4/Champ Data for Every Team, Add 2020 teams
@@ -43,6 +43,10 @@ main_html_string = '''
 '''
 
 @app.route('/')
+def why():
+    return('<a href="/main"> Loading...</a>')
+
+@app.route('/main')
 def table():
     df1 = pd.read_csv("df1.csv", index_col=0)
     return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
@@ -50,6 +54,7 @@ def table():
 
 @app.route('/<school>')
 def team(school):
+    from models import historical_page, process_seed_dist, list_to_hist
     dfc = pd.read_csv('data/df_curr.csv', index_col=0)
     df1 = pd.read_csv("df1.csv", index_col=0)
     second_string = ""
