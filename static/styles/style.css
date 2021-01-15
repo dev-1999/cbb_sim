@@ -1,0 +1,126 @@
+.hstyle {
+    font-family: Helvetica;
+    background: #fcffab
+}
+
+.fstyle {
+    font-family: Helvetica;
+    background: #e6f5ff
+}
+
+.hstyle a:link {
+  color: #2661ff;
+  text-decoration: underline;
+}
+
+.hstyle h1 {
+  font-size: 14.5pt;
+}
+
+.hstyle a:visited {
+  color: #2661ff;
+  text-decoration: underline;
+}
+
+.mystyle a:link {
+  color: #364e8f;
+  text-decoration: none;
+}
+
+.mystyle a:visited {
+  color: #364e8f;
+  text-decoration: none;
+}
+
+.mystyle a:hover {
+  color: purple;
+  text-decoration: none;
+}
+
+.mystyle a:selected {
+  color: purple;
+  text-decoration: none;
+}
+
+.mystyle th a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.mystyle th a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.mystyle th a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.mystyle th a:selected {
+  color: white;
+  text-decoration: underline;
+}
+
+.mystyle {
+    font-size: 12pt;
+    font-family: Helvetica;
+    border-collapse: collapse;
+
+}
+
+.mystyle th {
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+.mystyle td, th {
+    padding: 5px;
+}
+
+.mystyle th {
+    background: #364e8f;
+    color: #ffffff;
+}
+
+.mystyle tr:nth-child(even) {
+    background: #f5fbff;
+}
+
+.mystyle tr:nth-child(odd) {
+    background: #f5fbff;
+}
+
+.mystyle {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.mystyle tr:hover {
+    background: #cfcfcf;
+    cursor: pointer;
+}
+
+.mystyle table, th, td {
+  border-left: none;
+  border-right: none;
+}
+
+.istyle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+
+.mystyle tr {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}​
+
+.mstyle table {
+    margin-left: 5%
+    margin-right: 50%
+}

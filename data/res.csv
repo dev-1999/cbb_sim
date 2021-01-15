@@ -1,0 +1,348 @@
+,Team,Conf.,Record,#1 Match,#2 Match,#3 Match,Avg. Seed,Most Likely Seed,Made Tourney
+0,Baylor,B12,8-0,Kansas2016,Kansas2011,North Carolina2015,1.54,1,1.0000000000000004
+1,Gonzaga,WCC,9-0,North Carolina2019,North Carolina2005,Kentucky2017,1.54,1,0.9999999999999999
+2,Tennessee,SEC,7-0,Cincinnati2018,Connecticut2009,Kansas2013,2.31,2,0.9713824596466164
+3,Wisconsin,B10,8-2,Texas2011,Purdue2011,Kansas2015,3.08,2,0.9814563328889575
+4,Texas,B12,7-1,Illinois2003,Memphis2007,Kentucky2010,2.83,4,1.0000000000000004
+5,Illinois,B10,7-3,Florida St.2017,BYU2010,Xavier2016,3.26,3,1.0000000000000002
+6,Texas Tech,B12,8-2,Louisville2009,Purdue2010,Louisville2015,4.03,4,0.9444951696632584
+7,Houston,Amer,7-1,Louisville2008,Louisville2011,Purdue2009,3.56,3,0.9561737738376792
+8,Iowa,B10,8-2,Iowa St.2016,North Carolina2018,Xavier2018,4.69,4,1.0000000000000002
+9,Villanova,BE,8-1,Michigan2013,Baylor2010,Michigan St.2014,4.04,4,0.9799559604696914
+10,Virginia,ACC,5-2,Wisconsin2004,Pittsburgh2013,Georgetown2008,5.32,3,0.9664429618544368
+11,Kansas,B12,8-1,Florida St.2019,Mississippi St.2004,Seton Hall2016,4.32,4,0.9999999999999999
+12,West Virginia,B12,8-2,Kentucky2002,LSU2006,Marquette2008,4.71,4,0.9772094262545007
+13,Creighton,BE,7-2,North Carolina2006,Duke2003,Washington2011,4.69,3,0.9615006803787607
+14,Michigan,B10,7-0,Louisville2005,Penn St.2018,BYU2009,4.77,4,0.9008117329168143
+15,Oregon,P12,6-1,Penn St.2018,Louisville2005,California2016,4.95,4,0.8877228372116631
+16,Saint Louis,A10,7-1,West Virginia2015,BYU2009,Louisville2005,5.27,4,0.9449055625079995
+17,Rutgers,B10,7-1,Illinois2002,Kansas2019,Seton Hall2016,4.36,4,0.9861728102147724
+18,Indiana,B10,6-4,Oklahoma St.2013,Iowa2013,Kentucky2005,5.31,5,0.839428736626992
+19,Florida,SEC,4-1,Seton Hall2016,Marquette2012,Nevada2004,5.41,4,0.9721240119354063
+20,Ohio St.,B10,8-2,Syracuse2005,Kentucky2007,Kentucky2014,5.57,4,1.0
+21,Arkansas,SEC,9-0,Wake Forest2009,Washington2009,Washington2010,4.57,4,0.965962380691066
+22,Clemson,ACC,7-1,Louisville2012,Florida St.2010,Louisville2004,6.83,4,0.9156072357045882
+23,Connecticut,BE,4-1,Oklahoma St.2010,Missouri2013,Indiana2008,7.1,8,0.9651788151983415
+24,USC,P12,5-1,Memphis2003,Nevada2004,Seton Hall2016,6.49,7,0.9388105284631897
+25,Colorado,P12,6-2,West Virginia2015,Belmont2011,VCU2013,6.71,5,0.8798084926332829
+26,Florida St.,ACC,5-2,Marquette2012,Illinois2002,North Carolina2014,5.58,3,0.9232184999707087
+27,Syracuse,ACC,6-1,Maryland2004,Wake Forest2009,Connecticut2003,5.03,4,0.8535744655020665
+28,Duke,ACC,3-2,Minnesota2017,Marquette2012,Syracuse2007,5.58,5,0.8400320651208695
+29,San Diego St.,MWC,6-1,Cincinnati2016,Xavier2009,SMU2014,7.29,9,0.8742316533560889
+30,Mississippi,SEC,5-2,Tennessee2010,UTEP2010,South Carolina2017,7.48,6,0.9582343416767845
+31,Missouri,SEC,6-1,UNLV2012,Georgia Tech2010,Memphis2013,6.82,6,0.9136289065215222
+32,North Carolina St.,ACC,6-1,Syracuse2007,Minnesota2017,Georgetown2002,5.91,4,0.679338410113077
+33,Stanford,P12,5-2,Bradley2006,Georgia Tech2005,Wake Forest2010,8.25,9,0.9352787985183455
+34,Seton Hall,BE,7-4,Gonzaga2010,Alabama2002,Texas A&M2018,6.75,7,0.8236524945650056
+35,Purdue,B10,7-4,Rhode Island2017,Arkansas2006,Baylor2018,9.03,11,0.8338334487026493
+36,UCLA,P12,5-2,Missouri2018,Temple2012,New Mexico2014,8.47,8,0.9369419834333632
+37,Penn St.,B10,3-4,Oklahoma St.2018,Vanderbilt2010,Arkansas2015,6.33,4,0.657931603008569
+38,Minnesota,B10,9-1,Washington2010,Wake Forest2009,George Washington2006,6.94,4,0.6878132611955151
+39,LSU,SEC,6-1,Notre Dame2003,Iowa St.2013,Iowa2019,7.43,5,0.9101451596621798
+40,Oklahoma,B12,5-2,Oklahoma St.2018,Oklahoma St.2009,Vanderbilt2010,6.7,8,0.6547657817061543
+41,Louisville,ACC,6-1,Texas2018,Clemson2007,California2012,8.48,12,0.8208434983242927
+42,Northwestern,B10,6-2,Creighton2003,UCLA2013,Kansas2004,7.19,6,0.8086759804644252
+43,VCU,A10,8-2,UAB2004,Bradley2006,Purdue2003,8.96,9,0.8121991217585913
+44,Xavier,BE,8-2,Mississippi St.2007,Nebraska2018,Utah St.2019,8.08,8,0.5269085877284172
+45,North Carolina,ACC,5-4,UAB2004,Georgetown2002,Massachusetts2007,8.36,9,0.6116980864799918
+46,Loyola Chicago,MVC,6-2,South Carolina2004,Baylor2013,Syracuse2004,9.14,10,0.7363484054264505
+47,Alabama,SEC,6-3,George Washington2006,Washington2010,Louisville2002,7.84,8,0.5611255269664593
+48,Arizona,P12,7-1,Creighton2003,TCU2019,Marquette2006,6.77,6,0.7626781203267253
+49,Maryland,B10,6-3,Western Michigan2004,Florida St.2014,TCU2017,9.47,11,0.5800208637241456
+50,Providence,BE,7-3,Texas2005,Nebraska2019,North Carolina St.2012,9.35,11,0.627623617728555
+51,Marquette,BE,5-5,Gonzaga2003,VCU2010,Mississippi St.2018,8.83,9,0.548215403226403
+52,Richmond,A10,7-2,Oregon2003,Tennessee2007,Davidson2007,8.91,8,0.6312602264262694
+53,BYU,WCC,9-2,Massachusetts2007,South Carolina2016,Georgetown2002,10.98,12,0.27597421167754077
+54,Virginia Tech,ACC,8-1,Indiana2019,California2003,Belmont2013,9.6,11,0.4492033518836706
+55,Michigan St.,B10,6-3,Arkansas2014,Davidson2007,Milwaukee2003,9.5,12,0.5331732568456353
+56,Kentucky,SEC,1-6,Connecticut2010,BYU2008,Wake Forest2010,8.85,9,0.5322367634024817
+57,Arizona St.,P12,4-3,Memphis2019,Maryland2005,Massachusetts2008,9.63,10,0.14501578634911158
+58,Boise St.,MWC,6-1,Mississippi St.2005,Auburn2009,New Mexico St.2018,9.87,9,0.5673665095637
+59,Saint Mary's,WCC,9-2,Tulsa2009,Stony Brook2013,Creighton2006,10.49,13,0.14023767406471077
+60,Oklahoma St.,B12,6-2,Southern Illinois2002,Arkansas2002,Maryland2006,11.32,11,0.381352194579184
+61,Memphis,Amer,6-4,UAB2004,East Tennessee St.2004,BYU2012,10.61,9,0.3748295741839871
+62,SMU,Amer,6-0,Minnesota2002,Temple2019,Vanderbilt2008,9.64,11,0.4566996131225685
+63,DePaul,BE,1-2,Milwaukee2003,Arkansas2002,South Carolina2009,11.24,12,0.37095828643699447
+64,Rhode Island,A10,4-5,Syracuse2002,Villanova2003,Duquesne2011,11.04,9,0.2927996963551849
+65,Drake,MVC,11-0,Syracuse2006,Niagara2009,Houston2009,8.84,5,0.5421068549376452
+66,Davidson,A10,5-4,Stephen F. Austin2014,Harvard2011,DePaul2004,9.23,7,0.4759902568334578
+67,Utah,P12,4-1,Toledo2019,Indiana2018,Stephen F. Austin2016,9.45,14,0.3060544092336114
+68,Western Kentucky,CUSA,7-2,LSU2014,Arkansas2016,St. Bonaventure2018,10.56,11,0.2231577400222487
+69,Miami FL,ACC,4-3,Duquesne2011,UTEP2009,Villanova2003,12.08,13,0.2021297778466903
+70,St. Bonaventure,A10,2-1,Indiana2014,Southwest Missouri St.2005,Wichita St.2019,11.01,13,0.39356945265300897
+71,Georgia Tech,ACC,5-3,Southwest Missouri St.2005,Toledo2019,Indiana2018,11.08,13,0.1801572946995182
+72,North Texas,CUSA,4-3,Florida St.2008,Stanford2007,Colorado2014,10.69,11,0.41406426208721664
+73,South Carolina,SEC,1-2,Massachusetts2012,Maryland2006,East Tennessee St.2004,12.16,13,0.23141658808039178
+74,TCU,B12,8-2,Tulsa2014,Colorado2019,Ohio St.2016,12.91,13,0.691965228297562
+75,Notre Dame,ACC,3-5,North Carolina St.2016,North Dakota St.2009,St. Bonaventure2014,12.09,14,0.20312793161678752
+76,Mississippi St.,SEC,6-3,Rhode Island2016,Detroit2003,Seton Hall2015,12.47,14,0.1560814167580143
+77,Duquesne,A10,1-1,Houston2009,Virginia2004,Niagara2009,11.62,11,0.19721310448862528
+78,UAB,CUSA,7-1,Georgetown2003,Syracuse2002,BYU2012,12.25,13,0.21070168572507852
+79,Pittsburgh,ACC,5-2,Syracuse2002,Villanova2003,Davidson2009,12.05,13,0.152860756886529
+80,San Francisco,WCC,6-4,Louisiana Lafayette2003,BYU2013,UNLV2003,12.59,13,0.2576929884057275
+81,Auburn,SEC,6-3,Manhattan2014,Buffalo2005,Wake Forest2008,12.61,13,0.3532620645843102
+82,Furman,SC,7-3,Boston College2002,Louisiana Lafayette2004,Virginia2004,11.98,11,0.42230413252426874
+83,Wichita St.,Amer,5-2,Buffalo2005,Texas Tech2008,Evansville2016,12.43,13,0.19933930845588077
+84,Marshall,CUSA,6-1,UAB2003,East Tennessee St.2004,East Tennessee St.2002,12.46,13,0.03520952752221103
+85,Cincinnati,Amer,2-5,Syracuse2002,Georgetown2003,Arkansas2013,13.22,13,0.1224971532417855
+86,Toledo,MAC,7-3,Lehigh2012,Texas A&M2019,Fresno St.2019,14.67,15,0.3269074012423331
+87,St. John's,BE,6-4,Georgia Southern2019,Washington2004,Duquesne2008,10.05,8,0.21424986361701295
+88,Dayton,A10,4-2,George Washington2007,Rutgers2004,St. John's2003,11.28,11,0.22803134245053336
+89,New Mexico St.,WAC,2-1,Florida St.2015,Northern Iowa2004,Kent St.2005,12.78,14,0.2785242785112039
+90,Colorado St.,MWC,5-1,DePaul2018,San Diego St.2002,Iowa2004,13.0,13,0.21757410373903596
+91,Utah St.,MWC,5-3,San Francisco2017,Davidson2009,San Diego St.2007,12.11,14,0.05761256532996381
+92,Tulsa,Amer,5-3,South Carolina2003,Northwestern2019,Western Michigan2003,13.07,13,0.17602496138019202
+93,UCF,Amer,3-2,George Mason2004,Memphis2011,Cal St. Bakersfield2016,12.37,12,0.16171584503388553
+94,Liberty,ASun,8-3,Colorado2015,UTEP2015,UC Santa Barbara2002,13.31,14,0.13242408633219127
+95,Georgia,SEC,7-1,Fresno St.2002,East Tennessee St.2004,Massachusetts2012,13.23,13,0.21139886646418776
+96,Abilene Christian,Slnd,8-2,San Diego St.2007,Fresno St.2007,Louisiana Tech2013,10.14,9,0.08743222800149368
+97,South Florida,Amer,5-4,Memphis2011,Cal St. Bakersfield2016,George Mason2004,11.98,12,0.30400714726975175
+98,Wright St.,Horz,6-1,Providence2002,Cal St. Northridge2009,Fresno St.2002,13.77,15,0.22473768323306903
+99,Butler,BE,2-4,Rice2005,Tulsa2011,Oral Roberts2007,14.01,14,0.02747347374738159
+100,Bradley,MVC,6-3,USC2013,Iowa2011,Saint Louis2019,12.56,13,0.15117608539486627
+101,Missouri St.,MVC,4-1,Louisiana Tech2017,St. Bonaventure2017,Fresno St.2016,13.71,14,0.10970680652105547
+102,Georgia St.,SB,6-1,Ohio2017,Iowa St.2004,Auburn2007,13.91,13,0.10034613329598234
+103,Nebraska,B10,4-6,Fresno St.2002,Providence2002,Cal St. Northridge2009,13.71,15,0.04993889811264726
+104,Vermont,AE,2-2,Pittsburgh2019,Penn2019,UNC Greensboro2019,None,0,0.0
+105,Winthrop,BSth,7-0,Duquesne2008,BYU2017,Massachusetts2008,13.1,15,0.1946390252836207
+106,Ohio,MAC,4-4,UNLV2005,Fresno St.2016,Louisiana Tech2017,13.9,14,0.2450097819933867
+107,Northern Iowa,MVC,2-5,Northeastern2006,New Mexico St.2007,East Tennessee St.2009,14.25,13,0.26092087444439893
+108,Old Dominion,CUSA,3-2,Houston2007,Louisiana Tech2010,Colorado2018,13.8,14,0.04795380193737463
+109,Georgetown,BE,3-5,Stephen F. Austin2018,Northeastern2005,Texas A&M2003,13.97,14,0.4033835883047606
+110,Kansas St.,B12,5-5,College of Charleston2017,Georgia Tech2014,Belmont2004,None,0,0.0
+111,South Dakota St.,Sum,5-3,Providence2011,Texas Tech2009,BYU2006,13.27,14,0.13160235560135145
+112,Boston College,ACC,2-6,Northern Colorado2018,Winthrop2017,UTEP2008,13.71,14,0.192858698952657
+113,Texas A&M,SEC,5-2,USC2013,Kansas St.2004,Saint Louis2019,13.44,13,0.14968583590780732
+114,Washington,P12,1-6,Rutgers2003,Rhode Island2003,Georgia2006,14.0,14,0.020605378894578714
+115,Buffalo,MAC,3-3,Washington2002,Northeastern2005,Stephen F. Austin2018,14.0,14,0.10648739218185349
+116,Wake Forest,ACC,2-0,East Tennessee St.2009,Wake Forest2007,Northeastern2006,15.45,16,0.18260790098595014
+117,Indiana St.,MVC,3-4,Georgia Tech2006,Wyoming2005,Stanford2017,15.46,15,0.04480234182548572
+118,Iowa St.,B12,2-4,Arkansas Little Rock2002,Tulsa2019,Mississippi St.2017,14.62,14,0.09685486259242332
+119,UNC Greensboro,SC,5-3,Georgia Tech2009,Louisiana Lafayette2002,Providence2002,12.42,15,0.05902917614684401
+120,UTEP,CUSA,4-2,Georgia Tech2006,Florida Gulf Coast2013,Northern Colorado2010,15.0,15,0.0875558979425567
+121,Louisiana Tech,CUSA,7-2,VCU2002,Texas A&M Corpus Chris2006,Vanderbilt2003,14.96,15,0.08567078916506504
+122,Pacific,WCC,3-1,Utah2010,New Mexico St.2016,UC Santa Barbara2008,14.07,14,0.10372034575608445
+123,Washington St.,P12,8-0,Sam Houston St.2008,Fresno St.2007,Cal St. Bakersfield2017,9.0,9,0.02910013925153922
+124,Loyola Marymount,WCC,5-3,Florida Gulf Coast2013,Georgia Tech2006,Northern Colorado2010,15.0,15,0.17373873752101815
+125,UC Riverside,BW,3-1,Virginia2009,Colorado St.2010,UC Santa Barbara2010,14.5,15,0.07537666992280849
+126,Massachusetts,A10,2-3,Colorado2002,Duquesne2016,LIU Brooklyn2011,14.28,14,0.26310446034448187
+127,Belmont,OVC,9-1,Saint Joseph's2018,Oral Roberts2002,Washington2002,13.69,14,0.04999745309042997
+128,Nevada,MWC,6-3,Texas A&M Corpus Chris2006,VCU2002,Washington2002,14.47,14,0.024040228577353807
+129,UC Irvine,BW,5-4,TCU2016,Wake Forest2013,Georgia2006,14.35,14,0.10352215337161344
+130,East Carolina,Amer,7-1,Wake Forest2013,Wright St.2018,South Florida2003,14.67,14,0.15824777249955083
+131,Pepperdine,WCC,4-5,Lehigh2017,Siena2016,USC2005,14.43,14,0.08171961796978294
+132,Santa Clara,WCC,6-2,Nevada2016,Brown2019,Sam Houston St.2005,13.24,15,0.06471178606311243
+133,California,P12,5-4,Kent St.2009,UCF2003,Akron2011,15.0,15,0.08062355729474943
+134,Murray St.,OVC,4-4,Sam Houston St.2003,Florida Gulf Coast2013,San Diego St.2004,15.12,15,0.24965561539488448
+135,Little Rock,SB,4-3,La Salle2018,Southern Illinois2016,Fresno St.2006,15.0,15,0.015671117174656447
+136,Wyoming,MWC,6-1,Detroit2011,Lehigh2017,Samford2019,14.53,15,0.08916042340858243
+137,UNLV,MWC,1-4,La Salle2018,Fresno St.2006,Southern Illinois2016,14.48,14,0.033206466084255745
+138,Eastern Washington,BSky,2-4,Cal St. Northridge2008,Georgia Southern2004,Oakland2017,14.5,14,0.023853454205334235
+139,George Mason,A10,5-2,Wyoming2004,Florida Gulf Coast2013,Tennessee Tech2003,14.78,15,0.1118837518396825
+140,Grand Canyon,WAC,4-3,Miami OH2019,Albany2016,Santa Clara2011,15.0,15,0.035903752967492125
+141,Oregon St.,P12,4-3,USC Upstate2012,Penn St.2016,Georgia St.2004,15.21,15,0.026405978289185967
+142,Vanderbilt,SEC,4-3,Missouri2017,Wyoming2004,Colorado St.2004,15.45,15,0.03715439196329037
+143,Monmouth,MAAC,3-2,Wyoming2017,Wyoming2018,Georgia Southern2002,14.73,15,0.08846111356570854
+144,Siena,MAAC,0-0,Drake2018,Colorado St.2006,Siena2007,15.27,15,0.035678765852264004
+145,Saint Peter's,MAAC,6-3,Georgetown2004,Wyoming2006,Delaware2004,14.98,14,0.025569938931788543
+146,Bowling Green,MAC,6-2,Washington2017,DePaul2012,Oakland2002,14.38,14,0.06841634264286042
+147,Wofford,SC,4-3,North Carolina Central2017,La Salle2002,Colorado St.2005,15.93,16,0.24847117007597863
+148,Saint Joseph's,A10,0-6,Long Beach St.2006,Lipscomb2017,Rider2018,15.02,15,0.10615952288794092
+149,Montana,BSky,3-5,East Tennessee St.2010,Southern Miss2003,Jacksonville2011,15.75,16,0.19945825909644457
+150,Drexel,CAA,5-2,Indiana St.2015,Delaware2002,Purdue2006,15.69,16,0.08660746675039203
+151,Eastern Kentucky,OVC,8-2,East Tennessee St.2003,Georgia Southern2005,Seattle2010,15.0,15,0.12953538027709366
+152,Hofstra,CAA,4-3,Troy St.2002,USC2014,Hofstra2004,15.08,15,0.11803761191378068
+153,Akron,MAC,3-1,UCF2002,Valparaiso2018,Massachusetts2016,15.0,15,0.015495479073716232
+154,Charlotte,CUSA,4-3,Loyola Chicago2016,North Dakota St.2016,Mississippi2006,15.29,15,0.11178070725102823
+155,FIU,CUSA,6-2,UTSA2018,DePaul2013,Louisiana Tech2016,14.53,15,0.11014506692141196
+156,Ball St.,MAC,4-3,Yale2003,Eastern Washington2002,UAB2013,15.0,15,0.041791153979829375
+157,La Salle,A10,4-5,Princeton2019,Chattanooga2005,Southern Miss2003,15.26,15,0.19388711307024264
+158,Southern Illinois,MVC,7-1,San Francisco2002,Cal Poly2002,Fresno St.2005,15.73,16,0.05651231556393391
+159,Stephen F. Austin,Slnd,3-2,Georgia Southern2004,Massachusetts2017,Texas Pan American2002,None,0,0.0
+160,UNC Wilmington,CAA,6-3,Troy St.2002,Saint Joseph's2017,North Texas2007,15.25,15,0.16970574674734534
+161,UC Santa Barbara,BW,3-3,George Washington2018,Troy2010,UMKC2004,15.33,15,0.028478399327387327
+162,UTSA,CUSA,4-3,North Texas2002,Winthrop2018,Nebraska Omaha2014,15.21,16,0.039337108644498665
+163,Chattanooga,SC,9-1,Northwestern St.2005,Tennessee St.2013,Toledo2013,15.65,16,0.05016608950508081
+164,Fordham,A10,0-1,Manhattan2009,Monmouth2006,Southern Miss2002,16.0,16,0.14645028782327582
+165,Northeastern,CAA,1-5,Miami OH2018,Loyola Chicago2005,Siena2002,15.67,16,0.14910217393135444
+166,Bryant,NEC,7-2,Northwestern St.2007,Lipscomb2017,Lipscomb2018,14.87,15,0.11727850955527322
+167,Colgate,Pat,0-0,Arkansas St.2005,Lipscomb2011,New Orleans2008,14.92,15,0.1118552770736667
+168,Western Carolina,SC,7-3,TCU2003,Winthrop2018,Fairfield2016,None,0,0.0
+169,San Diego,WCC,1-3,Delaware2003,East Tennessee St.2007,Eastern Washington2002,15.29,15,0.03834796234554627
+170,Mercer,SC,7-2,Bucknell2016,Ball St.2017,Drexel2002,15.25,15,0.04749909627965332
+171,UT Arlington,SB,4-4,Cal Poly2003,Cal St. Northridge2002,East Tennessee St.2007,15.37,15,0.03734227835431113
+172,Valparaiso,MVC,3-5,East Tennessee St.2007,Tulsa2005,St. Bonaventure2009,15.24,15,0.040915221587102424
+173,Southern Utah,BSky,7-1,Duquesne2019,Yale2018,Charleston Southern2012,15.09,15,0.17975338480979305
+174,Cal St. Bakersfield,BW,4-3,Southern Miss2004,Texas A&M Corpus Chris2010,East Carolina2003,15.0,15,0.022118852700859035
+175,UMBC,AE,7-2,East Tennessee St.2007,Tulsa2005,Stony Brook2019,15.39,15,0.046205794947831946
+176,Navy,Pat,3-1,New Orleans2005,Wright St.2004,UC Irvine2005,15.7,16,0.043874808213869645
+177,Coastal Carolina,SB,6-1,New Mexico2019,Saint Peter's2005,Northern Illinois2002,None,0,0.0
+178,Oral Roberts,Sum,3-5,Fairfield2016,TCU2003,Winthrop2018,None,0,0.0
+179,Texas St.,SB,6-3,Lehigh2015,Bowling Green2003,Eastern Michigan2010,15.23,15,0.07828995785804317
+180,Jacksonville St.,OVC,7-2,Liberty2004,Western Kentucky2012,Wagner2014,15.86,16,0.30566789904241837
+181,Boston University,Pat,0-0,Detroit2014,Appalachian St.2005,Detroit2015,15.0,15,0.014183247037839953
+182,Illinois Chicago,Horz,5-2,Stony Brook2019,Buffalo2002,Western Carolina2011,15.78,16,0.080041418166604
+183,Miami OH,MAC,3-3,Detroit2014,Detroit2015,Appalachian St.2005,None,0,0.0
+184,Lafayette,Pat,0-0,Evansville2003,Rutgers2014,Kent St.2016,15.67,16,0.06866177161104217
+185,Kent St.,MAC,3-1,Boston University2017,Iona2004,Illinois Chicago2019,15.57,16,0.04382499671739365
+186,Eastern Michigan,MAC,2-3,Iona2005,Montana2005,Evansville2006,16.0,16,0.15850784639438448
+187,Louisiana Lafayette,SB,6-1,Fairfield2002,Utah Valley2017,Texas Pan American2002,15.0,15,0.020987931516123028
+188,Cleveland St.,Horz,4-3,Fairleigh Dickinson2005,UTSA2009,Texas A&M Corpus Chris2016,15.97,16,0.40039811332337666
+189,Temple,Amer,1-2,Cleveland St.2002,Stony Brook2019,Tulsa2005,15.35,15,0.05894498923060098
+190,East Tennessee St.,SC,5-4,Louisiana Lafayette2012,Seattle2013,San Jose St.2006,16.0,16,0.012235110475348228
+191,Milwaukee,Horz,3-1,Wyoming2008,Duquesne2003,Tennessee Tech2006,16.0,16,0.017095603315909626
+192,Austin Peay,OVC,6-3,Hawaii2013,Vermont2002,Jacksonville St.2003,15.65,16,0.05309927647781153
+193,NJIT,AE,2-2,McNeese St.2003,Coastal Carolina2018,Coastal Carolina2017,16.0,16,0.0705119541246897
+194,Tulane,Amer,5-2,Fresno St.2008,Auburn2013,St. Francis NY2011,15.45,15,0.11799327747539275
+195,Norfolk St.,MEAC,4-3,Siena2011,Hofstra2008,Gardner Webb2005,16.0,16,0.09688392741883835
+196,Eastern Illinois,OVC,3-5,Duquesne2003,Tennessee Tech2006,Canisius2003,None,0,0.0
+197,Fresno St.,MWC,2-2,Central Michigan2002,Cal St. Northridge2003,Montana2005,16.0,16,0.11919393644083001
+198,Marist,MAAC,5-1,Maine2005,East Carolina2005,Hampton2011,16.0,16,0.07293585887302692
+199,Montana St.,BSky,2-3,Eastern Illinois2017,Tennessee Tech2011,Tennessee Tech2006,15.55,16,0.053294084629572386
+200,George Washington,A10,2-6,Eastern Michigan2005,Howard2002,UC Irvine2011,15.69,16,0.04793075200694652
+201,Hawaii,BW,2-0,FIU2018,Canisius2003,Fairfield2017,16.0,16,0.013976311054357777
+202,Florida Gulf Coast,ASun,5-2,Georgia Southern2007,Saint Louis2016,Austin Peay2002,16.0,16,0.04005043738158214
+203,Florida Atlantic,CUSA,5-3,Hofstra2008,Mount St. Mary's2017,Siena2011,16.0,16,0.14318079261325223
+204,UNC Asheville,BSth,4-4,Washington St.2003,Montana2002,Texas A&M Corpus Chris2004,15.13,15,0.24115511589590305
+205,Iona,MAAC,5-3,Eastern Washington2012,Siena2004,Austin Peay2012,None,0,0.0
+206,Northern Kentucky,Horz,3-4,North Texas2014,Cal St. Northridge2011,Siena2004,None,0,0.0
+207,North Dakota St.,Sum,2-6,Evansville2010,Wyoming2011,Hofstra2012,16.0,16,0.015535535889453054
+208,New Hampshire,AE,3-2,Radford2002,Florida Atlantic2002,UMBC2002,15.2,15,0.09716180684379927
+209,Army,Pat,4-1,Loyola Marymount2003,Harvard2005,Florida Atlantic2002,15.36,15,0.0812384421142949
+210,Texas Southern,SWAC,2-5,Eastern Michigan2005,Howard2002,Columbia2017,15.34,15,0.0524860298339158
+211,UC San Diego,BW,2-0,Cal Poly2004,Little Rock2019,Quinnipiac2003,16.0,16,0.026768021001904833
+212,Detroit,Horz,1-7,Lamar2007,James Madison2008,Boise St.2005,16.0,16,0.04509792954506517
+213,Youngstown St.,Horz,4-3,Akron2002,UMKC2007,Lafayette2012,16.0,16,0.033263585359337544
+214,James Madison,CAA,3-3,Eastern Illinois2002,Bowling Green2018,St. Francis NY2003,16.0,16,0.03708619781987459
+215,Niagara,MAAC,3-3,La Salle2016,Gardner Webb2014,Sacred Heart2012,None,0,0.0
+216,South Alabama,SB,6-3,Arkansas St.2006,Army2014,Jacksonville St.2004,None,0,0.0
+217,Samford,SC,5-3,Appalachian St.2002,Alcorn St.2002,Lamar2011,16.0,16,0.1406612299601037
+218,Illinois St.,MVC,3-5,Quinnipiac2003,Northwestern St.2002,Weber St.2019,None,0,0.0
+219,Middle Tennessee,CUSA,2-4,UMBC2002,Hampton2014,St. John's2016,15.47,15,0.03426144593194508
+220,Long Beach St.,BW,1-2,Army2016,Northwestern St.2008,Western Carolina2002,16.0,16,0.036817042073645
+221,Western Michigan,MAC,2-5,Cal St. Bakersfield2018,Navy2018,Binghamton2007,16.0,16,0.06603541735271128
+222,Canisius,MAAC,1-3,Quinnipiac2003,Little Rock2019,Cal Poly2004,16.0,16,0.014093227732088584
+223,Southern Miss,CUSA,4-3,Hampton2010,Iona2008,Montana St.2004,16.0,16,0.012596172840335157
+224,Elon,CAA,3-1,Eastern Washington2019,East Carolina2010,UNC Greensboro2004,None,0,0.0
+225,Merrimack,NEC,0-0,Georgia2005,Tulsa2006,Toledo2008,None,0,0.0
+226,Hartford,AE,5-4,Iona2008,Hampton2010,Marist2009,16.0,16,0.009110566048252272
+227,Loyola MD,Pat,0-0,Stetson2012,Florida Atlantic2008,Bowling Green2017,16.0,16,0.047063800303247735
+228,College of Charleston,CAA,2-5,Hawaii2010,Northern Illinois2004,Western Carolina2012,None,0,0.0
+229,Towson,CAA,1-4,Georgia St.2003,Sam Houston St.2018,Western Carolina2009,None,0,0.0
+230,Sacramento St.,BSky,3-1,Saint Peter's2016,Coastal Carolina2013,UMBC2019,16.0,16,0.011915669238812548
+231,Mount St. Mary's,NEC,2-3,Lehigh2014,IPFW2013,Jacksonville2012,None,0,0.0
+232,Appalachian St.,SB,6-3,Santa Clara2010,Cleveland St.2017,Santa Clara2003,16.0,16,0.026087787934627814
+233,Stetson,ASun,2-4,Rider2006,Western Illinois2016,Portland2018,16.0,16,0.016999040274559403
+234,VMI,SC,5-5,Louisiana Lafayette2013,Western Michigan2019,South Alabama2017,16.0,16,0.04302247500787536
+235,Gardner Webb,BSth,2-5,Gardner Webb2018,Stetson2013,East Carolina2019,16.0,16,0.014139093416588097
+236,Georgia Southern,SB,6-3,Florida Atlantic2018,San Jose St.2016,Marshall2015,None,0,0.0
+237,Campbell,BSth,4-5,Bowling Green2007,Brown2015,Youngstown St.2010,None,0,0.0
+238,Stony Brook,AE,6-4,Delaware2005,Texas Pan American2004,Delaware2006,16.0,16,0.022904206181294025
+239,Central Michigan,MAC,5-4,Hampton2018,Southern Utah2018,UT Arlington2002,16.0,16,0.03286424561258777
+240,Nicholls St.,Slnd,2-4,UT Arlington2010,Cal St. Northridge2010,Sam Houston St.2017,16.0,16,0.013918167459687231
+241,Central Arkansas,Slnd,1-7,Pepperdine2008,South Dakota2010,Lamar2011,16.0,16,0.04312867783859842
+242,High Point,BSth,3-5,UNLV2017,Central Michigan2005,North Dakota2019,16.0,16,0.0571777170127348
+243,UC Davis,BW,2-2,UTSA2006,Tennessee Martin2003,South Alabama2017,16.0,16,0.01687970936696122
+244,IUPUI,Horz,1-0,Lafayette2002,Northwestern St.2011,Texas St.2013,16.0,16,0.009269968384366513
+245,American,Pat,0-0,UNLV2017,North Dakota2019,Central Michigan2005,16.0,16,0.061759650058848495
+246,Cal Baptist,WAC,3-2,St. Francis PA2017,Rice2019,North Florida2017,16.0,16,0.01923507222141127
+247,Lipscomb,ASun,5-5,LIU Brooklyn2017,Portland2018,Cornell2013,16.0,16,0.0042636458197145705
+248,UMass Lowell,AE,2-6,North Dakota2019,St. Francis NY2005,Tulane2019,16.0,16,0.018136089622189214
+249,Delaware,CAA,2-3,Tulane2005,Eastern Kentucky2017,UC Riverside2002,16.0,16,0.03481969650177256
+250,UT Rio Grande Valley,WAC,5-3,UT Arlington2010,Cal St. Northridge2010,UMBC2002,16.0,16,0.052972415126803285
+251,Southern,SWAC,0-4,St. Francis NY2005,Chattanooga2010,Northern Illinois2008,None,0,0.0
+252,South Dakota,Sum,2-6,Northern Colorado2017,UNC Asheville2002,Army2015,16.0,16,0.022973597981465255
+253,Nebraska Omaha,Sum,2-8,Seattle2011,Alabama A&M2005,North Carolina A&T2002,16.0,16,0.0728783286609951
+254,Fairleigh Dickinson,NEC,2-6,Northwestern St.2011,Northern Arizona2005,Lafayette2002,None,0,0.0
+255,North Carolina Central,MEAC,1-3,Appalachian St.2013,Prairie View A&M2003,Centenary2007,None,0,0.0
+256,Seattle,WAC,6-5,Yale2006,Cal St. Northridge2006,Youngstown St.2004,16.0,16,0.06847048499334979
+257,North Alabama,ASun,4-2,Northern Illinois2008,Chattanooga2010,Wyoming2010,None,0,0.0
+258,New Mexico,MWC,3-2,Northern Illinois2008,St. Francis NY2005,Chattanooga2010,None,0,0.0
+259,Albany,AE,0-3,Hofstra2003,Mississippi Valley St.2012,UT Arlington2005,16.0,16,0.10776611776972318
+260,Air Force,MWC,3-3,Columbia2008,Lehigh2007,Nevada2015,None,0,0.0
+261,LIU Brooklyn,NEC,1-1,South Dakota2010,Texas A&M Corpus Chris2003,Stetson2002,16.0,16,0.031648192368867886
+262,The Citadel,SC,7-0,Texas Southern2019,Houston Baptist2019,Utah Valley2016,16.0,16,0.016186888283727607
+263,Robert Morris,Horz,2-3,Troy2016,Tulane2005,Texas Southern2003,16.0,16,0.0715688065558302
+264,Morehead St.,OVC,4-6,Manhattan2007,Louisiana Lafayette2009,Colgate2013,None,0,0.0
+265,Green Bay,Horz,0-8,Florida Atlantic2017,UMKC2014,Tennessee Martin2004,16.0,16,0.0163044476114756
+266,Florida A&M,MEAC,1-5,Norfolk St.2019,Northern Colorado2017,Penn2008,16.0,16,0.00968351285186527
+267,St. Francis PA,NEC,1-4,Niagara2017,UNC Greensboro2011,Jacksonville2007,16.0,16,0.03428271329625163
+268,Evansville,MVC,3-5,Portland2008,Lipscomb2005,IPFW2006,16.0,16,0.03331379514263151
+269,Weber St.,BSky,3-3,Fordham2003,High Point2004,Loyola Marymount2002,None,0,0.0
+270,Utah Valley,WAC,2-4,Northern Illinois2008,Jackson St.2006,Harvard2006,None,0,0.0
+271,Northern Colorado,BSky,4-3,Columbia2004,Hampton2015,UTSA2017,16.0,16,0.07235589503148207
+272,Manhattan,MAAC,2-3,Penn2009,Canisius2002,Buffalo2003,None,0,0.0
+273,Northwestern St.,Slnd,1-10,Sacred Heart2004,Campbell2007,Cornell2016,16.0,16,0.019113908119104763
+274,Sam Houston St.,Slnd,6-5,Alabama A&M2006,Jackson St.2003,Northwestern St.2004,16.0,16,0.039668744703752166
+275,Oakland,Horz,2-9,Florida A&M2004,Jacksonville2019,Sam Houston St.2004,16.0,16,0.22675186670601566
+276,Portland,WCC,6-3,Alabama A&M2006,Northwestern St.2004,Jackson St.2003,16.0,16,0.05237637220633821
+277,Rice,CUSA,6-2,Penn2008,South Florida2017,Loyola Marymount2002,None,0,0.0
+278,Jacksonville,ASun,6-4,North Alabama2019,LIU Brooklyn2005,South Carolina St.2002,16.0,16,0.038362241678232295
+279,Troy,SB,5-4,Monmouth2019,Quinnipiac2016,Florida Gulf Coast2011,16.0,16,0.04596085975295734
+280,Wagner,NEC,1-4,Gardner Webb2004,Stetson2005,Coastal Carolina2009,None,0,0.0
+281,Bellarmine,ASun,1-3,Eastern Washington2010,Eastern Illinois2004,Penn2008,None,0,0.0
+282,Morgan St.,MEAC,3-2,LIU Brooklyn2005,Miami OH2017,North Alabama2019,16.0,16,0.022303583059697943
+283,Tennessee St.,OVC,1-5,Gardner Webb2003,Navy2011,North Carolina A&T2002,16.0,16,0.06975713020265682
+284,Fort Wayne,Horz,2-3,Hampton2004,East Carolina2018,Florida Atlantic2017,None,0,0.0
+285,North Dakota,Sum,1-8,Alabama St.2015,FIU2007,Tennessee Martin2018,None,0,0.0
+286,UMKC,Sum,4-5,UC Riverside2005,Navy2007,Towson2004,16.0,16,0.013444472671884531
+287,Northern Illinois,MAC,1-6,Little Rock2018,Seattle2016,Stetson2004,None,0,0.0
+288,Longwood,BSth,1-8,Prairie View A&M2015,New Mexico St.2005,Lamar2010,None,0,0.0
+289,Texas A&M Corpus Chris,Slnd,3-6,Florida Gulf Coast2011,UC Riverside2017,Monmouth2019,16.0,16,0.0157177960765451
+290,North Florida,ASun,2-8,Nicholls St.2019,Charleston Southern2016,UC Riverside2003,None,0,0.0
+291,Tennessee Tech,OVC,1-9,Alcorn St.2003,North Carolina A&T2009,Cleveland St.2004,16.0,16,0.01574102730504606
+292,Quinnipiac,MAAC,2-2,Florida A&M2002,Northern Illinois2009,UC Riverside2018,16.0,16,0.016582605691403973
+293,Radford,BSth,4-5,Mississippi Valley St.2008,San Diego2011,Elon2003,16.0,16,0.26119990326044146
+294,Lehigh,Pat,0-0,Morgan St.2016,Wyoming2019,Eastern Illinois2004,None,0,0.0
+295,Cal St. Northridge,BW,4-3,Navy2010,Sam Houston St.2004,Mercer2008,16.0,16,0.041110332375091534
+296,Jackson St.,SWAC,0-5,Gardner Webb2003,North Carolina A&T2002,Jackson St.2005,16.0,16,0.05644156509931984
+297,Louisiana Monroe,SB,2-5,Siena2005,Pepperdine2009,Louisiana Monroe2006,None,0,0.0
+298,Bucknell,Pat,0-0,North Carolina A&T2009,Cleveland St.2004,Jackson St.2005,16.0,16,0.02314732552601107
+299,William & Mary,CAA,2-3,Louisiana Monroe2009,North Dakota2015,Tennessee Martin2011,None,0,0.0
+300,Cal St. Fullerton,BW,1-0,Florida A&M2002,North Carolina A&T2009,Cleveland St.2004,None,0,0.0
+301,North Carolina A&T,MEAC,3-9,Bethune Cookman2019,Fordham2010,Jacksonville2005,None,0,0.0
+302,Southeast Missouri St.,OVC,2-6,Jacksonville2004,Norfolk St.2011,Sacramento St.2016,16.0,16,0.01349183077670906
+303,Grambling St.,SWAC,2-5,Florida A&M2002,Northern Illinois2009,Norfolk St.2017,None,0,0.0
+304,Prairie View A&M,SWAC,1-4,Grambling St.2004,Radford2008,IPFW2003,None,0,0.0
+305,San Jose St.,MWC,1-4,Northwestern St.2010,Lamar2004,Southeast Missouri St.2008,None,0,0.0
+306,Central Connecticut,NEC,2-5,Georgia Southern2010,Wofford2004,Southeast Missouri St.2007,None,0,0.0
+307,Coppin St.,MEAC,1-8,Elon2002,Northwestern St.2009,Alabama A&M2002,16.0,16,0.043165946883601314
+308,Charleston Southern,BSth,1-5,Morgan St.2005,Army2012,Southern2005,None,0,0.0
+309,Arkansas St.,SB,3-4,Alcorn St.2017,Cal St. Bakersfield2010,Lamar2010,None,0,0.0
+310,Rider,MAAC,1-6,Sacred Heart2018,East Carolina2018,Campbell2008,None,0,0.0
+311,Idaho St.,BSky,4-5,Bucknell2009,Alabama St.2006,Sacramento St.2010,None,0,0.0
+312,Cal Poly,BW,2-4,Campbell2008,Sacred Heart2018,Stephen F. Austin2019,None,0,0.0
+313,Fairfield,MAAC,1-8,Niagara2011,Charleston Southern2002,Western Carolina2017,None,0,0.0
+314,Lamar,Slnd,2-7,SIU Edwardsville2009,Gardner Webb2003,North Carolina A&T2002,16.0,16,0.05231641516536382
+315,Incarnate Word,Slnd,1-4,Cal St. Bakersfield2011,Texas Pan American2005,North Carolina A&T2008,None,0,0.0
+316,Maine,AE,0-3,Alabama St.2006,Bucknell2009,William & Mary2005,None,0,0.0
+317,SIU Edwardsville,OVC,3-4,Grambling St.2004,Jackson St.2008,UTSA2003,None,0,0.0
+318,St. Francis NY,NEC,2-3,Grambling St.2018,LIU Brooklyn2004,Fordham2010,None,0,0.0
+319,Arkansas Pine Bluff,SWAC,1-8,Sacred Heart2003,Florida A&M2014,Jackson St.2008,None,0,0.0
+320,McNeese St.,Slnd,6-3,North Texas2017,Alabama A&M2004,McNeese St.2017,None,0,0.0
+321,Binghamton,AE,1-6,Cal St. Bakersfield2011,Florida Gulf Coast2008,SIU Edwardsville2012,None,0,0.0
+322,USC Upstate,BSth,0-9,Lafayette2006,Georgia Southern2009,Prairie View A&M2017,None,0,0.0
+323,Alabama A&M,SWAC,2-0,Loyola MD2005,Radford2007,Jackson St.2008,None,0,0.0
+324,Portland St.,BSky,2-4,Grambling St.2018,Sacramento St.2002,Navy2005,None,0,0.0
+325,New Orleans,Slnd,1-7,Sacred Heart2003,Jackson St.2008,Eastern Kentucky2002,None,0,0.0
+326,Hampton,BSth,4-5,Grambling St.2018,LIU Brooklyn2004,VMI2006,None,0,0.0
+327,Southeastern Louisiana,Slnd,2-7,Radford2007,Jacksonville2018,Grambling St.2005,None,0,0.0
+328,Northern Arizona,BSky,1-6,Alcorn St.2016,Columbia2006,North Carolina Central2018,16.0,16,0.06974652749214218
+329,Dixie St.,WAC,4-2,New Hampshire2003,Sacred Heart2003,Florida A&M2014,None,0,0.0
+330,Denver,Sum,1-6,Eastern Kentucky2002,Mississippi Valley St.2011,Sacred Heart2003,None,0,0.0
+331,Idaho,BSky,0-5,Northern Arizona2018,UC Davis2007,Alcorn St.2006,None,0,0.0
+332,Sacred Heart,NEC,2-3,Nicholls St.2016,Southern2003,UC Davis2007,None,0,0.0
+333,Western Illinois,Sum,2-5,Central Arkansas2012,Maine2018,VMI2006,None,0,0.0
+334,Kennesaw St.,ASun,3-5,Texas Southern2007,Grambling St.2006,Florida A&M2013,None,0,0.0
+335,Tarleton St.,WAC,2-2,Southeast Missouri St.2016,Houston Baptist2012,Gardner Webb2010,None,0,0.0
+336,Alcorn St.,SWAC,0-5,Nebraska Omaha2012,Longwood2013,Incarnate Word2018,None,0,0.0
+337,Delaware St.,MEAC,0-5,Houston Baptist2010,Southern2002,Morgan St.2019,None,0,0.0
+338,Howard,MEAC,1-4,Alabama St.2018,Southeast Missouri St.2009,Lipscomb2003,None,0,0.0
+339,Tennessee Martin,OVC,2-3,Alcorn St.2018,Bethune Cookman2017,Grambling St.2008,None,0,0.0
+340,Holy Cross,Pat,0-0,Houston Baptist2014,Maryland Eastern Shore2011,Alcorn St.2007,None,0,0.0
+341,Presbyterian,BSth,2-3,UMBC2012,Maryland Eastern Shore2011,Loyola Marymount2008,None,0,0.0
+342,Houston Baptist,Slnd,1-7,Maine2014,Southern2002,Jacksonville2006,None,0,0.0
+343,Chicago St.,WAC,0-9,Mississippi Valley St.2018,Alabama St.2017,Mississippi Valley St.2019,None,0,0.0
+344,Alabama St.,SWAC,0-0,Florida A&M2016,Southern2010,Lamar2013,None,0,0.0
+345,South Carolina St.,MEAC,0-10,Longwood2005,Delaware St.2019,Prairie View A&M2006,None,0,0.0
+346,Mississippi Valley St.,SWAC,0-8,Prairie View A&M2006,Alcorn St.2010,Chicago St.2011,None,0,0.0
