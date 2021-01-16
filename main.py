@@ -49,7 +49,7 @@ main_html_string = '''
 df1 = polished_df_sortby_mls(df)
 @app.route('/')
 def table():
-    return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=df.to_html(index=False, classes='mystyle', escape=False))
 
 
 @app.route('/<school>')
