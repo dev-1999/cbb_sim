@@ -1,14 +1,19 @@
 from flask import Flask
 import pandas as pd
+from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_dict, polished_df_sortby_mls
 
 
-#TODO: 4 - Put on Heroku
 #TODO: 5 - Update S16/F4/Champ Data for Every Team, Add 2020 teams
 
 app = Flask(__name__)
 pd.set_option('display.max_colwidth', -1)
 
-df = pd.read_csv('data/polished_main_df.csv', index_col=0)
+mega_df = pd.read_csv("data/mega_df.csv")
+scaler, neigh, h = scale_and_fit(mega_df)
+df_curr, c = get_and_scale(scaler)
+
+df = polish_main_df(generate_main_dict(df_curr, c, neigh, mega_df).reset_index(drop=True))
+
 
 main_html_string = '''
 <html>
@@ -41,29 +46,22 @@ main_html_string = '''
   </footer>
 </html>.
 '''
-
+df1 = polished_df_sortby_mls(df)
 @app.route('/')
-def why():
-    return('<a href="/main"> Loading...</a>')
-
-@app.route('/main')
 def table():
-    df1 = pd.read_csv("df1.csv", index_col=0)
     return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
 
 
 @app.route('/<school>')
 def team(school):
     from models import historical_page, process_seed_dist, list_to_hist
-    dfc = pd.read_csv('data/df_curr.csv', index_col=0)
-    df1 = pd.read_csv("df1.csv", index_col=0)
     second_string = ""
     make = -1
     avg_seed = -1
     school_name = ""
     img_string = "<p> <br /> </p>"
     try:
-        team_df, team_pred, current = historical_page(team=school, df_curr=dfc)
+        team_df, team_pred, current = historical_page(school, df_curr, mega_df, neigh, h, c)
     except KeyError:
         return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
     team_df = team_df.rename(columns={'Label':'Team', 'S':'Seed', 'distance':'Distance'})
@@ -163,4 +161,4 @@ def avgseed():
     return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False))
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)

@@ -166,7 +166,7 @@ def get_and_scale(scaler, is_2020=False):
 
 
 #TODO: export this data and train/test out probabilities using 2015-19 data
-def predict(i, num_matches = 5, distance_weight = 1, num_comps = 55):
+def predict(i, c, df_curr, neigh, mega_df, num_matches = 5, distance_weight = 1, num_comps = 55):
     info_dict = {}
     info_dict['team'] = (df_curr.loc[i,'team'])
     a = (neigh.kneighbors([c[i]]))
@@ -229,29 +229,30 @@ def process_seed_dist(lst):
 # In[24]:
 
 
-mega_df = generate_historical_df()
+#mega_df = generate_historical_df()
 
+#mega_df.to_csv('data/mega_df.csv')
 
 # In[25]:
 
 
-scaler, neigh, h = scale_and_fit(mega_df)
+#scaler, neigh, h = scale_and_fit(mega_df)
 
 
 # In[26]:
 
 
-df_curr, c = get_and_scale(scaler)
+#df_curr, c = get_and_scale(scaler)
 
 
 # In[70]:
 
 
-df_curr_2020, c_2020 = get_and_scale(scaler, is_2020=True)
+#df_curr_2020, c_2020 = get_and_scale(scaler, is_2020=True)
 
 
 
-def generate_main_dict(dataframe=df_curr):
+def generate_main_dict(df_curr, c, neigh, mega_df):
     output_dict = {'Team':[],
         'Conf.':[],
         'Record':[],
@@ -267,7 +268,7 @@ def generate_main_dict(dataframe=df_curr):
         output_dict['Team'].append(df_curr.loc[i,'team'])
         output_dict['Conf.'].append(df_curr.iloc[i,2])
         output_dict['Record'].append(df_curr.iloc[i,3])
-        x = predict(i)
+        x = predict(i, c, df_curr, neigh, mega_df)
         m, y, a = process_seed_dist(x['seed_dist'])
         output_dict['#1 Match'].append(x['matches'][0])
         output_dict['#2 Match'].append(x['matches'][1])
@@ -284,23 +285,23 @@ def generate_main_dict(dataframe=df_curr):
 # In[27]:
 
 
-write = generate_main_dict()
+#write = generate_main_dict()
 
 
-write_2020 = generate_main_dict(df_curr_2020)
+#write_2020 = generate_main_dict(df_curr_2020)
 
 
 # In[49]:
 
 
-write = write.reset_index(drop=True)
-write.to_csv("res.csv")
+#write = write.reset_index(drop=True)
+#write.to_csv("res.csv")
 
 
 # In[74]:
 
 
-def historical_page(team, df_curr):
+def historical_page(team, df_curr, mega_df, neigh, h, c):
     i = -1
     is_historical = team[-4:].isnumeric()
     if is_historical:
@@ -319,7 +320,7 @@ def historical_page(team, df_curr):
     ret['S'] = ret['S'].apply(lambda x: x if x != 17 else "None")
     ret = ret.reset_index(drop=True)
     if not is_historical:
-        return ret, predict(i), True
+        return ret, predict(i, c, df_curr, neigh, mega_df), True
     if is_historical:
         actual_seed = mdf_labindex.loc[team, 'S']
         avg_seed = 0
@@ -351,8 +352,8 @@ def polish_main_df(df):
         df.rename(columns={c: '<a href="' + c + '">' + c + "</a>"}, inplace=True)
     return df
 
-polish_main_df(write).to_csv('data/polished_main_df.csv')
-df_curr.to_csv('data/df_curr.csv')
+#polish_main_df(write).to_csv('data/polished_main_df.csv')
+#df_curr.to_csv('data/df_curr.csv')
 
 def polished_df_sortby_mls(df):
     df1 = df
@@ -366,4 +367,4 @@ def polished_df_sortby_mls(df):
     df1['Rank'] = range(1, len(df) + 1)
     return df1
 
-polished_df_sortby_mls(polish_main_df(write)).to_csv('df1.csv')
+#polished_df_sortby_mls(polish_main_df(write)).to_csv('df1.csv')
