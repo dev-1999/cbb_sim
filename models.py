@@ -314,14 +314,16 @@ def historical_page(team, df_curr, mega_df, neigh, h, c):
         a = (neigh.kneighbors([c[i]]))
     matches = a[1][0].tolist()
     distances = [round(x, 3) for x in a[0][0].tolist()]
-    comp_df = mega_df.loc[matches[1:],:].copy()
-    comp_df['distance'] = distances[1:]
+    comp_df = mega_df.loc[matches,:].copy()
+    comp_df['distance'] = distances
     ret = comp_df[['Label', 'S', 'distance']].copy()
     ret['S'] = ret['S'].apply(lambda x: x if x != 17 else "None")
     ret = ret.reset_index(drop=True)
     if not is_historical:
         return ret, predict(i, c, df_curr, neigh, mega_df), True
     if is_historical:
+        ret = ret.iloc[1:]
+        ret = ret.reset_index(drop=True)
         actual_seed = mdf_labindex.loc[team, 'S']
         avg_seed = 0
         denom = 0

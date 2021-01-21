@@ -8,7 +8,7 @@ from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_d
 app = Flask(__name__)
 pd.set_option('display.max_colwidth', -1)
 
-mega_df = pd.read_csv("data/mega_df.csv")
+mega_df = pd.read_csv("data/mega_df.csv", index_col=0)
 scaler, neigh, h = scale_and_fit(mega_df)
 df_curr, c = get_and_scale(scaler)
 
