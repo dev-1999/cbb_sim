@@ -3,7 +3,9 @@ import pandas as pd
 from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_dict, polished_df_sortby_mls
 
 
-#TODO: 5 - Update S16/F4/Champ Data for Every Team, Add 2020 teams
+#TODO: Update tourney success for each team
+#TODO: Add record and conference info to historical/team pages
+#TODO: Add 2020 teams
 
 app = Flask(__name__)
 pd.set_option('display.max_colwidth', -1)
@@ -47,9 +49,10 @@ main_html_string = '''
 </html>.
 '''
 df1 = polished_df_sortby_mls(df)
+
 @app.route('/')
 def table():
-    return main_html_string.format(table=df.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=df1.to_html(index=False, classes='mystyle', escape=False))
 
 
 @app.route('/<school>')
