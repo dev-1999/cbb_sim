@@ -1,0 +1,339 @@
+Label,Year,Team,Conference,Wins,Losses,Seed,Outcome
+Kentucky2015,2015,Kentucky,SEC,38,1,1,F4
+Wisconsin2015,2015,Wisconsin,B10,36,4,1,C2
+Duke2015,2015,Duke,ACC,35,4,1,Champ
+Arizona2015,2015,Arizona,P12,34,4,2,E8
+Villanova2015,2015,Villanova,BE,33,3,1,R32
+Virginia2015,2015,Virginia,ACC,30,4,2,R32
+Gonzaga2015,2015,Gonzaga,WCC,35,3,2,E8
+Utah2015,2015,Utah,P12,26,9,5,S16
+Notre Dame2015,2015,Notre Dame,ACC,32,6,3,E8
+North Carolina2015,2015,North Carolina,ACC,26,12,4,S16
+Oklahoma2015,2015,Oklahoma,B12,24,11,3,S16
+Kansas2015,2015,Kansas,B12,27,9,2,R32
+Wichita St.2015,2015,Wichita St.,MVC,30,5,7,S16
+Baylor2015,2015,Baylor,B12,24,10,3,R64
+Michigan St.2015,2015,Michigan St.,B10,27,12,7,F4
+Iowa St.2015,2015,Iowa St.,B12,25,9,3,R64
+Louisville2015,2015,Louisville,ACC,27,9,4,E8
+Northern Iowa2015,2015,Northern Iowa,MVC,31,4,5,R32
+Ohio St.2015,2015,Ohio St.,B10,24,11,10,R32
+Butler2015,2015,Butler,BE,23,11,6,R32
+Xavier2015,2015,Xavier,BE,23,14,6,S16
+Georgetown2015,2015,Georgetown,BE,22,11,4,R32
+Iowa2015,2015,Iowa,B10,22,12,7,R32
+Texas2015,2015,Texas,B12,20,14,11,R64
+West Virginia2015,2015,West Virginia,B12,25,10,5,S16
+SMU2015,2015,SMU,Amer,27,7,6,R64
+Providence2015,2015,Providence,BE,22,12,6,R64
+BYU2015,2015,BYU,WCC,25,10,11,R68
+Arkansas2015,2015,Arkansas,SEC,27,9,5,R32
+VCU2015,2015,VCU,A10,26,10,7,R64
+San Diego St.2015,2015,San Diego St.,MWC,27,9,8,R32
+North Carolina St.2015,2015,North Carolina St.,ACC,22,14,8,S16
+Maryland2015,2015,Maryland,B10,28,7,4,R32
+Georgia2015,2015,Georgia,SEC,21,12,10,R64
+Davidson2015,2015,Davidson,A10,24,8,10,R64
+Oklahoma St.2015,2015,Oklahoma St.,B12,18,14,9,R64
+UCLA2015,2015,UCLA,P12,22,14,11,S16
+Dayton2015,2015,Dayton,A10,27,9,11,R32
+Cincinnati2015,2015,Cincinnati,Amer,23,11,8,R32
+Purdue2015,2015,Purdue,B10,21,13,9,R64
+Oregon2015,2015,Oregon,P12,26,10,8,R32
+Mississippi2015,2015,Mississippi,SEC,21,13,11,R64
+Boise St.2015,2015,Boise St.,MWC,25,9,11,R68
+Indiana2015,2015,Indiana,B10,20,14,10,R64
+LSU2015,2015,LSU,SEC,22,11,9,R64
+St. John's2015,2015,St. John's,BE,21,12,9,R64
+Stephen F. Austin2015,2015,Stephen F. Austin,Slnd,29,5,12,R64
+Buffalo2015,2015,Buffalo,MAC,23,10,12,R64
+Valparaiso2015,2015,Valparaiso,Horz,28,6,13,R64
+Georgia St.2015,2015,Georgia St.,SB,25,10,14,R32
+Harvard2015,2015,Harvard,Ivy,22,8,13,R64
+UC Irvine2015,2015,UC Irvine,BW,21,13,13,R64
+Wofford2015,2015,Wofford,SC,28,7,12,R64
+New Mexico St.2015,2015,New Mexico St.,WAC,23,11,15,R64
+Wyoming2015,2015,Wyoming,MWC,25,10,12,R64
+Northeastern2015,2015,Northeastern,CAA,23,12,14,R64
+Albany2015,2015,Albany,AE,24,9,14,R64
+Eastern Washington2015,2015,Eastern Washington,BSky,26,9,13,R64
+UAB2015,2015,UAB,CUSA,20,16,14,R32
+Coastal Carolina2015,2015,Coastal Carolina,BSth,24,10,16,R64
+Belmont2015,2015,Belmont,OVC,22,11,15,R64
+North Florida2015,2015,North Florida,ASun,23,12,16,R68
+North Dakota St.2015,2015,North Dakota St.,Sum,23,10,15,R64
+Manhattan2015,2015,Manhattan,MAAC,19,14,16,R68
+Robert Morris2015,2015,Robert Morris,NEC,20,15,16,R64
+Lafayette2015,2015,Lafayette,Pat,20,13,16,R64
+Texas Southern2015,2015,Texas Southern,SWAC,22,13,15,R64
+Hampton2015,2015,Hampton,MEAC,17,18,16,R64
+Villanova2016,2016,Villanova,BE,35,5,2,Champ
+North Carolina2016,2016,North Carolina,ACC,33,7,1,C2
+Kansas2016,2016,Kansas,B12,33,5,1,E8
+Virginia2016,2016,Virginia,ACC,29,8,1,E8
+Michigan St.2016,2016,Michigan St.,B10,29,6,2,R64
+Kentucky2016,2016,Kentucky,SEC,27,9,4,R32
+West Virginia2016,2016,West Virginia,B12,26,9,3,R64
+Purdue2016,2016,Purdue,B10,26,9,5,R64
+Oklahoma2016,2016,Oklahoma,B12,29,8,2,F4
+Indiana2016,2016,Indiana,B10,27,8,5,S16
+Oregon2016,2016,Oregon,P12,31,7,1,E8
+Wichita St.2016,2016,Wichita St.,MVC,26,9,11,R32
+Xavier2016,2016,Xavier,BE,28,6,2,R32
+Miami FL2016,2016,Miami FL,ACC,27,8,3,S16
+Duke2016,2016,Duke,ACC,25,11,4,S16
+Texas A&M2016,2016,Texas A&M,SEC,28,9,3,S16
+Arizona2016,2016,Arizona,P12,25,9,6,R64
+Iowa St.2016,2016,Iowa St.,B12,23,12,4,S16
+Gonzaga2016,2016,Gonzaga,WCC,28,8,11,S16
+Maryland2016,2016,Maryland,B10,27,9,5,S16
+Iowa2016,2016,Iowa,B10,22,11,7,R32
+Baylor2016,2016,Baylor,B12,22,12,5,R64
+Vanderbilt2016,2016,Vanderbilt,SEC,19,14,11,R68
+Connecticut2016,2016,Connecticut,Amer,25,11,9,R32
+Syracuse2016,2016,Syracuse,ACC,23,14,10,F4
+California2016,2016,California,P12,23,11,4,R64
+Seton Hall2016,2016,Seton Hall,BE,25,9,6,R64
+Butler2016,2016,Butler,BE,22,11,9,R32
+VCU2016,2016,VCU,A10,25,11,10,R32
+Cincinnati2016,2016,Cincinnati,Amer,22,11,9,R64
+Utah2016,2016,Utah,P12,27,9,3,R32
+Notre Dame2016,2016,Notre Dame,ACC,24,12,6,E8
+Pittsburgh2016,2016,Pittsburgh,ACC,21,12,10,R64
+Wisconsin2016,2016,Wisconsin,B10,22,13,7,S16
+Texas2016,2016,Texas,B12,20,13,6,R64
+Stephen F. Austin2016,2016,Stephen F. Austin,Slnd,28,6,14,R32
+Saint Joseph's2016,2016,Saint Joseph's,A10,28,8,8,R32
+Providence2016,2016,Providence,BE,24,11,9,R32
+Yale2016,2016,Yale,Ivy,23,7,12,R32
+USC2016,2016,USC,P12,21,13,8,R64
+Michigan2016,2016,Michigan,B10,23,13,11,R64
+Texas Tech2016,2016,Texas Tech,B12,19,13,8,R64
+Colorado2016,2016,Colorado,P12,22,12,8,R64
+Dayton2016,2016,Dayton,A10,25,8,7,R64
+Hawaii2016,2016,Hawaii,BW,28,6,13,R32
+Oregon St.2016,2016,Oregon St.,P12,19,13,7,R64
+Tulsa2016,2016,Tulsa,Amer,20,12,11,R68
+Northern Iowa2016,2016,Northern Iowa,MVC,23,13,11,R32
+South Dakota St.2016,2016,South Dakota St.,Sum,26,8,12,R64
+UNC Wilmington2016,2016,UNC Wilmington,CAA,25,8,13,R64
+Temple2016,2016,Temple,Amer,21,12,10,R64
+Stony Brook2016,2016,Stony Brook,AE,26,7,13,R64
+Iona2016,2016,Iona,MAAC,22,11,13,R64
+Fresno St.2016,2016,Fresno St.,MWC,25,10,14,R64
+Chattanooga2016,2016,Chattanooga,SC,29,6,12,R64
+Middle Tennessee2016,2016,Middle Tennessee,CUSA,25,10,15,R32
+Green Bay2016,2016,Green Bay,Horz,23,13,14,R64
+UNC Asheville2016,2016,UNC Asheville,BSth,22,12,15,R64
+Buffalo2016,2016,Buffalo,MAC,20,15,14,R64
+Weber St.2016,2016,Weber St.,BSky,26,9,15,R64
+Florida Gulf Coast2016,2016,Florida Gulf Coast,ASun,21,14,16,R64
+Austin Peay2016,2016,Austin Peay,OVC,18,18,16,R64
+Southern2016,2016,Southern,SWAC,22,13,16,R64
+Hampton2016,2016,Hampton,MEAC,21,11,16,R64
+Fairleigh Dickinson2016,2016,Fairleigh Dickinson,NEC,18,15,16,R64
+Holy Cross2016,2016,Holy Cross,Pat,15,20,16,R64
+Gonzaga2017,2017,Gonzaga,WCC,37,2,1,C2
+Villanova2017,2017,Villanova,BE,32,4,1,R32
+North Carolina2017,2017,North Carolina,ACC,33,7,1,Champ
+Kentucky2017,2017,Kentucky,SEC,32,6,2,E8
+Florida2017,2017,Florida,SEC,27,9,4,E8
+Kansas2017,2017,Kansas,B12,31,5,1,E8
+West Virginia2017,2017,West Virginia,B12,28,9,4,S16
+Wichita St.2017,2017,Wichita St.,MVC,31,5,10,R32
+Louisville2017,2017,Louisville,ACC,25,9,2,R32
+Oregon2017,2017,Oregon,P12,33,6,3,F4
+SMU2017,2017,SMU,Amer,30,5,6,R64
+Virginia2017,2017,Virginia,ACC,23,11,5,R32
+Baylor2017,2017,Baylor,B12,27,8,3,S16
+Duke2017,2017,Duke,ACC,28,9,2,R32
+Saint Mary's2017,2017,Saint Mary's,WCC,29,5,7,R32
+UCLA2017,2017,UCLA,P12,31,5,3,S16
+Iowa St.2017,2017,Iowa St.,B12,24,11,5,R32
+Arizona2017,2017,Arizona,P12,32,5,2,S16
+Purdue2017,2017,Purdue,B10,27,8,4,S16
+Michigan2017,2017,Michigan,B10,26,12,7,S16
+Wisconsin2017,2017,Wisconsin,B10,27,10,8,S16
+Oklahoma St.2017,2017,Oklahoma St.,B12,20,13,10,R64
+Cincinnati2017,2017,Cincinnati,Amer,30,6,6,R32
+South Carolina2017,2017,South Carolina,SEC,26,11,7,F4
+Butler2017,2017,Butler,BE,25,9,4,S16
+Florida St.2017,2017,Florida St.,ACC,26,9,3,R32
+Notre Dame2017,2017,Notre Dame,ACC,26,10,5,R32
+Creighton2017,2017,Creighton,BE,25,10,6,R64
+Kansas St.2017,2017,Kansas St.,B12,21,14,11,R64
+Xavier2017,2017,Xavier,BE,24,14,11,E8
+Marquette2017,2017,Marquette,BE,19,13,10,R64
+Vanderbilt2017,2017,Vanderbilt,SEC,19,16,9,R64
+Rhode Island2017,2017,Rhode Island,A10,25,10,11,R32
+Arkansas2017,2017,Arkansas,SEC,26,10,8,R32
+Wake Forest2017,2017,Wake Forest,ACC,19,14,11,R68
+Minnesota2017,2017,Minnesota,B10,24,10,5,R64
+Northwestern2017,2017,Northwestern,B10,24,12,8,R32
+Dayton2017,2017,Dayton,A10,24,8,7,R64
+Michigan St.2017,2017,Michigan St.,B10,20,15,9,R32
+Miami FL2017,2017,Miami FL,ACC,21,12,8,R64
+Middle Tennessee2017,2017,Middle Tennessee,CUSA,31,5,12,R32
+Maryland2017,2017,Maryland,B10,24,9,6,R64
+VCU2017,2017,VCU,A10,26,9,10,R64
+Virginia Tech2017,2017,Virginia Tech,ACC,22,11,9,R64
+Seton Hall2017,2017,Seton Hall,BE,21,12,9,R64
+USC2017,2017,USC,P12,26,10,11,R32
+Nevada2017,2017,Nevada,MWC,28,7,12,R64
+Princeton2017,2017,Princeton,Ivy,23,7,12,R64
+UNC Wilmington2017,2017,UNC Wilmington,CAA,29,6,12,R64
+Providence2017,2017,Providence,BE,20,13,11,R68
+Vermont2017,2017,Vermont,AE,29,6,13,R64
+East Tennessee St.2017,2017,East Tennessee St.,SC,27,8,13,R64
+Bucknell2017,2017,Bucknell,Pat,26,9,13,R64
+New Mexico St.2017,2017,New Mexico St.,WAC,28,6,14,R64
+Florida Gulf Coast2017,2017,Florida Gulf Coast,ASun,26,8,14,R64
+Winthrop2017,2017,Winthrop,BSth,26,7,13,R64
+Iona2017,2017,Iona,MAAC,22,13,14,R64
+Troy2017,2017,Troy,SB,22,15,15,R64
+Northern Kentucky2017,2017,Northern Kentucky,Horz,24,11,15,R64
+Kent St.2017,2017,Kent St.,MAC,22,14,14,R64
+Jacksonville St.2017,2017,Jacksonville St.,OVC,20,15,15,R64
+North Carolina Central2017,2017,North Carolina Central,MEAC,25,9,16,R68
+North Dakota2017,2017,North Dakota,BSky,22,10,15,R64
+New Orleans2017,2017,New Orleans,Slnd,20,12,16,R68
+South Dakota St.2017,2017,South Dakota St.,Sum,18,17,16,R64
+Mount St. Mary's2017,2017,Mount St. Mary's,NEC,20,16,16,R64
+Texas Southern2017,2017,Texas Southern,SWAC,23,12,16,R64
+UC Davis2017,2017,UC Davis,BW,23,13,16,R64
+Texas Southern2018,2018,Texas Southern,SWAC,16,20,16,R64
+Oklahoma2018,2018,Oklahoma,B12,18,14,10,R64
+LIU Brooklyn2018,2018,LIU Brooklyn,NEC,18,17,16,R68
+Texas2018,2018,Texas,B12,19,15,10,R64
+North Carolina Central2018,2018,North Carolina Central,MEAC,19,16,16,R68
+Arizona St.2018,2018,Arizona St.,P12,20,12,11,R68
+Cal St. Fullerton2018,2018,Cal St. Fullerton,BW,20,12,15,R64
+Missouri2018,2018,Missouri,SEC,20,13,8,R64
+Iona2018,2018,Iona,MAAC,20,14,15,R64
+Alabama2018,2018,Alabama,SEC,20,16,9,R32
+Creighton2018,2018,Creighton,BE,21,12,8,R64
+TCU2018,2018,TCU,B12,21,12,6,R64
+Virginia Tech2018,2018,Virginia Tech,ACC,21,12,8,R64
+Davidson2018,2018,Davidson,A10,21,12,12,R64
+North Carolina St.2018,2018,North Carolina St.,ACC,21,12,9,R64
+UCLA2018,2018,UCLA,P12,21,12,11,R68
+Florida2018,2018,Florida,SEC,21,13,6,R32
+Butler2018,2018,Butler,BE,21,14,10,R32
+Providence2018,2018,Providence,BE,21,14,10,R64
+Miami FL2018,2018,Miami FL,ACC,22,10,6,R64
+San Diego St.2018,2018,San Diego St.,MWC,22,11,11,R64
+Seton Hall2018,2018,Seton Hall,BE,22,12,8,R32
+Texas A&M2018,2018,Texas A&M,SEC,22,13,7,S16
+Lipscomb2018,2018,Lipscomb,ASun,23,10,15,R64
+Florida St.2018,2018,Florida St.,ACC,23,12,9,E8
+Arkansas2018,2018,Arkansas,SEC,23,12,7,R64
+Radford2018,2018,Radford,BSth,23,13,16,R64
+Syracuse2018,2018,Syracuse,ACC,23,14,11,S16
+Georgia St.2018,2018,Georgia St.,SB,24,11,15,R64
+Penn2018,2018,Penn,Ivy,24,9,16,R64
+Clemson2018,2018,Clemson,ACC,25,10,5,S16
+Bucknell2018,2018,Bucknell,Pat,25,10,14,R64
+Wright St.2018,2018,Wright St.,Horz,25,10,14,R64
+Marshall2018,2018,Marshall,CUSA,25,11,13,R32
+UMBC2018,2018,UMBC,AE,25,11,16,R32
+Kansas St.2018,2018,Kansas St.,B12,25,12,9,E8
+Wichita St.2018,2018,Wichita St.,Amer,25,8,4,R64
+Ohio St.2018,2018,Ohio St.,B10,25,9,5,R32
+West Virginia2018,2018,West Virginia,B12,26,11,5,S16
+North Carolina2018,2018,North Carolina,ACC,26,11,2,R32
+Kentucky2018,2018,Kentucky,SEC,26,11,5,S16
+Murray St.2018,2018,Murray St.,OVC,26,6,12,R64
+Auburn2018,2018,Auburn,SEC,26,8,4,R32
+Rhode Island2018,2018,Rhode Island,A10,26,8,7,R32
+St. Bonaventure2018,2018,St. Bonaventure,A10,26,8,11,R64
+Montana2018,2018,Montana,BSky,26,8,14,R64
+College of Charleston2018,2018,College of Charleston,CAA,26,8,13,R64
+Tennessee2018,2018,Tennessee,SEC,26,9,3,R32
+Texas Tech2018,2018,Texas Tech,B12,27,10,3,E8
+Houston2018,2018,Houston,Amer,27,8,6,R32
+Arizona2018,2018,Arizona,P12,27,8,4,R64
+UNC Greensboro2018,2018,UNC Greensboro,SC,27,8,13,R64
+Buffalo2018,2018,Buffalo,MAC,27,9,13,R32
+New Mexico St.2018,2018,New Mexico St.,WAC,28,6,12,R64
+South Dakota St.2018,2018,South Dakota St.,Sum,28,7,12,R64
+Stephen F. Austin2018,2018,Stephen F. Austin,Slnd,28,7,14,R64
+Xavier2018,2018,Xavier,BE,29,6,1,R32
+Duke2018,2018,Duke,ACC,29,8,2,E8
+Nevada2018,2018,Nevada,MWC,29,8,7,S16
+Michigan St.2018,2018,Michigan St.,B10,30,5,3,R32
+Purdue2018,2018,Purdue,B10,30,7,2,S16
+Virginia2018,2018,Virginia,ACC,31,3,1,R64
+Cincinnati2018,2018,Cincinnati,Amer,31,5,2,R32
+Kansas2018,2018,Kansas,B12,31,8,1,F4
+Gonzaga2018,2018,Gonzaga,WCC,32,5,4,S16
+Loyola Chicago2018,2018,Loyola Chicago,MVC,32,6,11,F4
+Michigan2018,2018,Michigan,B10,33,8,3,C2
+Villanova2018,2018,Villanova,BE,36,4,1,Champ
+Iona2019,2019,Iona,MAAC,17,16,16,R64
+North Carolina Central2019,2019,North Carolina Central,MEAC,18,16,16,R68
+North Dakota St.2019,2019,North Dakota St.,Sum,19,16,16,R64
+Mississippi2019,2019,Mississippi,SEC,20,13,8,R64
+Louisville2019,2019,Louisville,ACC,20,14,7,R64
+Oklahoma2019,2019,Oklahoma,B12,20,14,9,R32
+Syracuse2019,2019,Syracuse,ACC,20,14,8,R64
+Baylor2019,2019,Baylor,B12,20,14,9,R32
+Seton Hall2019,2019,Seton Hall,BE,20,14,10,R64
+Ohio St.2019,2019,Ohio St.,B10,20,15,11,R32
+Bradley2019,2019,Bradley,MVC,20,15,15,R64
+Florida2019,2019,Florida,SEC,20,16,10,R32
+St. John's2019,2019,St. John's,BE,21,13,11,R68
+Fairleigh Dickinson2019,2019,Fairleigh Dickinson,NEC,21,14,16,R64
+Saint Mary's2019,2019,Saint Mary's,WCC,22,12,11,R64
+Prairie View A&M2019,2019,Prairie View A&M,SWAC,22,13,16,R68
+Minnesota2019,2019,Minnesota,B10,22,14,10,R32
+Yale2019,2019,Yale,Ivy,22,8,14,R64
+Temple2019,2019,Temple,Amer,23,10,11,R68
+Wisconsin2019,2019,Wisconsin,B10,23,11,5,R64
+Mississippi St.2019,2019,Mississippi St.,SEC,23,11,5,R64
+Maryland2019,2019,Maryland,B10,23,11,6,R32
+Arizona St.2019,2019,Arizona St.,P12,23,11,11,R64
+Northeastern2019,2019,Northeastern,CAA,23,11,13,R64
+Iowa St.2019,2019,Iowa St.,B12,23,12,6,R64
+Iowa2019,2019,Iowa,B10,23,12,10,R32
+Gardner Webb2019,2019,Gardner Webb,BSth,23,12,16,R64
+Saint Louis2019,2019,Saint Louis,A10,23,13,13,R64
+Marquette2019,2019,Marquette,BE,24,10,5,R64
+Georgia St.2019,2019,Georgia St.,SB,24,10,14,R64
+Colgate2019,2019,Colgate,Pat,24,11,15,R64
+UCF2019,2019,UCF,Amer,24,9,9,R32
+Oregon2019,2019,Oregon,P12,25,13,12,S16
+VCU2019,2019,VCU,A10,25,8,8,R64
+Kansas St.2019,2019,Kansas St.,B12,25,9,4,R64
+Purdue2019,2019,Purdue,B10,26,10,3,E8
+Kansas2019,2019,Kansas,B12,26,10,4,R32
+Villanova2019,2019,Villanova,BE,26,10,6,R32
+Virginia Tech2019,2019,Virginia Tech,ACC,26,9,4,S16
+Northern Kentucky2019,2019,Northern Kentucky,Horz,26,9,14,R64
+Old Dominion2019,2019,Old Dominion,CUSA,26,9,14,R64
+Montana2019,2019,Montana,BSky,26,9,15,R64
+Belmont2019,2019,Belmont,OVC,27,6,11,R64
+Vermont2019,2019,Vermont,AE,27,7,13,R64
+Abilene Christian2019,2019,Abilene Christian,Slnd,27,7,15,R64
+Washington2019,2019,Washington,P12,27,9,9,R32
+Murray St.2019,2019,Murray St.,OVC,28,5,12,R32
+LSU2019,2019,LSU,SEC,28,7,3,S16
+Cincinnati2019,2019,Cincinnati,Amer,28,7,7,R64
+Utah St.2019,2019,Utah St.,MWC,28,7,8,R64
+Nevada2019,2019,Nevada,MWC,29,5,7,R64
+North Carolina2019,2019,North Carolina,ACC,29,7,1,S16
+Liberty2019,2019,Liberty,ASun,29,7,12,R32
+Florida St.2019,2019,Florida St.,ACC,29,8,4,S16
+Auburn2019,2019,Auburn,SEC,30,10,5,F4
+Wofford2019,2019,Wofford,SC,30,5,7,R32
+New Mexico St.2019,2019,New Mexico St.,WAC,30,5,12,R64
+Michigan2019,2019,Michigan,B10,30,7,2,S16
+Kentucky2019,2019,Kentucky,SEC,30,7,2,E8
+Tennessee2019,2019,Tennessee,SEC,31,6,2,S16
+UC Irvine2019,2019,UC Irvine,BW,31,6,13,R32
+Texas Tech2019,2019,Texas Tech,B12,31,7,3,C2
+Buffalo2019,2019,Buffalo,MAC,32,4,6,R32
+Duke2019,2019,Duke,ACC,32,6,1,E8
+Michigan St.2019,2019,Michigan St.,B10,32,7,2,F4
+Gonzaga2019,2019,Gonzaga,WCC,33,4,1,E8
+Houston2019,2019,Houston,Amer,33,4,3,S16
+Virginia2019,2019,Virginia,ACC,35,3,1,Champ

@@ -24,6 +24,7 @@ def list_to_hist(lst):
     ticklabels = [str(i) for i in range(1, 18)]
     ticklabels[-1] = 'Miss'
     plt.xticks(range(1, 18), ticklabels, size='small')
+    ax.set_title('Implied Likelihood of Seed')
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
     plt.savefig(img, format='png', bbox_inches='tight', transparent=True)
@@ -301,7 +302,7 @@ def generate_main_dict(df_curr, c, neigh, mega_df):
 # In[74]:
 
 
-def historical_page(team, df_curr, mega_df, neigh, h, c):
+def historical_page(team, df_curr, mega_df, neigh, h, c, recdf):
     i = -1
     is_historical = team[-4:].isnumeric()
     if is_historical:
@@ -316,7 +317,15 @@ def historical_page(team, df_curr, mega_df, neigh, h, c):
     distances = [round(x, 3) for x in a[0][0].tolist()]
     comp_df = mega_df.loc[matches,:].copy()
     comp_df['distance'] = distances
-    ret = comp_df[['Label', 'S', 'distance']].copy()
+    ret = comp_df[['Label', 'distance', 'S']].copy()
+    ret.set_index('Label', drop=True, inplace=True)
+    ret['NCAAT Result'] = recdf.loc[ret.index.tolist(),'Outcome']
+    ret['W'] = recdf.loc[ret.index.tolist(),'Wins']
+    ret['L'] = recdf.loc[ret.index.tolist(),'Losses']
+    ret['Record'] = ret['W'].astype(str) + "-" + ret['L'].astype(str)
+    ret.reset_index(inplace=True)
+    #ret['Record'] = comp_df.iloc[:,3]
+    #ret['Conference'] = comp_df.iloc[:,2]
     ret['S'] = ret['S'].apply(lambda x: x if x != 17 else "None")
     ret = ret.reset_index(drop=True)
     if not is_historical:
