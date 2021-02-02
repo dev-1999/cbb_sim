@@ -2,7 +2,6 @@ from flask import Flask
 import pandas as pd
 from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_dict, polished_df_sortby_mls
 
-#TODO: writeup here
 #TODO: Add 2020 teams
 
 app = Flask(__name__)
