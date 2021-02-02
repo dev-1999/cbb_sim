@@ -2,9 +2,7 @@ from flask import Flask
 import pandas as pd
 from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_dict, polished_df_sortby_mls
 
-
-#TODO: add f4 probability, etc to team pages
-#TODO: add and link writeup 'here'
+#TODO: writeup here
 #TODO: Add 2020 teams
 
 app = Flask(__name__)
@@ -31,7 +29,7 @@ main_html_string = '''
          men's basketball teams most nearly match this year's field, and offers statistics based on this info. </p>
         <p style="text-align:center; font-style:italic; font-size=8pt;"> <b>How to use:</b> This page displays at-a-glance info for all teams. Click any individual current or historic
         team for a more complete list of their nearest comparisons. For a more detailed writeup, click 
-        <a href="https://www.google.com/">here</a>. </p>
+        <a href="https://github.com/dev-1999/cbbsim/blob/main/README.md">here</a>. </p>
   </header>
   
   <style> 
