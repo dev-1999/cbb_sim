@@ -1,5 +1,6 @@
 from flask import Flask
 import pandas as pd
+from datetime import datetime
 from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_dict, polished_df_sortby_mls
 
 #TODO: Add 2020 teams
@@ -7,7 +8,7 @@ from models import scale_and_fit, get_and_scale, polish_main_df, generate_main_d
 app = Flask(__name__)
 pd.set_option('display.max_colwidth', -1)
 recdf = pd.read_csv('data/recdf_final.csv', index_col = 0)
-
+now = datetime.now()
 mega_df = pd.read_csv("data/mega_df.csv", index_col=0)
 scaler, neigh, h = scale_and_fit(mega_df)
 df_curr, c = get_and_scale(scaler)
@@ -42,7 +43,7 @@ main_html_string = '''
     {table}
   </body>
   <footer class="fstyle">
-    <p> Designed by Devlin Sullivan | Contact: devlin.s@wustl.edu </p>
+    <p> Designed by Devlin Sullivan | Contact: devlin.s@wustl.edu | Updated as of {curr_time}</p>
   </footer>
 </html>.
 '''
@@ -60,7 +61,7 @@ def table():
     mtitle = '<a href="' + 'Most Likely Seed' + '">' + 'Most Likely Seed' + "</a>"
     asd[mtitle] = [x if x not in [0, 17] else "None" for x in asd[mtitle].tolist()]
     asd['Rank'] = range(1, len(df) + 1)
-    return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False), curr_time=now.strftime("%m/%d/%Y, %H:%M:%S"))
 
 
 @app.route('/<school>')
@@ -124,15 +125,16 @@ def team(school):
       </body>
      
       <footer class="fstyle">
-            <p> Designed by Devlin Sullivan | Contact: devlin.s@wustl.edu </p>
+            <p> Designed by Devlin Sullivan | Contact: devlin.s@wustl.edu | Updated as of: {curr_time} </p>
         </footer>
     </html>. 
     '''
+
     team_df['Team'] = team_df['Team'].apply(lambda x: '<a href="' + x + '">' + x + "</a>")
     team_df['Seed'] = team_df['Seed'].apply(lambda x: int(x) if x != 'None' else x)
     return team_html_string.format(table=team_df.to_html(index=False, classes='mystyle', escape=False),
                                    teamname=school_name, avg_seed=avg_seed, p_make=make, image_string=img_string,
-                                   string_two=second_string)
+                                   string_two=second_string,curr_time=now.strftime("%m/%d/%Y, %H:%M:%S"))
 
 @app.route('/Made Tourney')
 def made():
