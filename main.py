@@ -148,7 +148,7 @@ def made():
     aaseed = mtitle = '<a href="' + 'Avg. Seed' + '">' + 'Avg. Seed' + "</a>"
     df2[aaseed] = [x if x != 17 else "None" for x in df2[aaseed].tolist()]
     df2['Rank'] = range(1, len(df) + 1)
-    return main_html_string.format(table=df2.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=df2.to_html(index=False, classes='mystyle', escape=False), curr_time=now.strftime("%m/%d/%Y, %H:%M:%S"))
 
 @app.route('/Most Likely Seed')
 def mode():
@@ -162,7 +162,7 @@ def mode():
     ctitle = '<a href="' + c + '">' + c + "</a>"
     mls[ctitle] = [x if x != 17 else "None" for x in mls[ctitle].tolist()]
     mls['Rank'] = range(1,len(df) + 1)
-    return main_html_string.format(table=mls.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=mls.to_html(index=False, classes='mystyle', escape=False), curr_time=now.strftime("%m/%d/%Y, %H:%M:%S"))
 
 @app.route('/Avg. Seed')
 def avgseed():
@@ -176,7 +176,7 @@ def avgseed():
     mtitle = '<a href="' + 'Most Likely Seed' + '">' + 'Most Likely Seed' + "</a>"
     asd[mtitle] = [x if x not in [0, 17] else "None" for x in asd[mtitle].tolist()]
     asd['Rank'] = range(1, len(df) + 1)
-    return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False))
+    return main_html_string.format(table=asd.to_html(index=False, classes='mystyle', escape=False), curr_time=now.strftime("%m/%d/%Y, %H:%M:%S"))
 
 if __name__ == "__main__":
     app.run(debug=True)
