@@ -30,7 +30,7 @@ main_html_string = '''
          men's basketball teams most nearly match this year's field, and offers statistics based on this info. </p>
         <p style="text-align:center; font-style:italic; font-size=8pt;"> <b>How to use:</b> This page displays at-a-glance info for all teams. Click any individual current or historic
         team for a more complete list of their nearest comparisons. For a more detailed writeup, click 
-        <a href="https://github.com/dev-1999/cbbsim/blob/main/README.md">here</a>. </p>
+        <a href="https://github.com/dev-1999/cbb_sim/blob/master/README.md">here</a>. </p>
   </header>
   
   <style> 
