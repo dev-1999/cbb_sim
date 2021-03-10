@@ -1,7 +1,7 @@
 # CBBSIM Explainer
 Information for college basketball similarity website
 
-current link: cbbsim.herokuapp.com
+[current link](cbbsim.herokuapp.com)
 
 This tool uses team-level advanced statistics from Ken Pomeroy and Bart Torvik to determine the closest historical comparisons to current men's college basketball team. Using current and past teams' metrics for overall power rating, offensive and defensive efficiency, as well as tempo, this project determines current teams' closest neighbors from past Selection Sundays, and then summarizes how these teams fared in march. (Note: historical years correspond to the year the tournament was held, ie 2008-09 season is 2009)
 
